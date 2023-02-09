@@ -14,4 +14,4 @@ epoch=10， "bbox_mAP": 0.712
 # 实验设备
 NVIDIA GeForce GTX 3090
 # 实验结果
-epoch=4  
+epoch=4 "bbox_mAP": 0.7690
