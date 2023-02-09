@@ -8,3 +8,10 @@ balloon是带有mask的气球数据集，其中训练集包含61张图片，验�
 下载链接：https://github.com/matterport/Mask_RCNN/releases/download/v2.1/balloon_dataset.zip
 # 实验结果
 epoch=10， "bbox_mAP": 0.712
+# 进阶作业
+使用mmdetection完成项目，使用以下数据集   
+目标检测数据集：PASCAL VOC20107：https://opendatalab.org.cn/PASCAL_VOC2007
+# 实验设备
+NVIDIA GeForce GTX 3090
+# 实验结果
+epoch=4  
